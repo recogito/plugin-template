@@ -1,2 +1,3 @@
 # plugin-template
-Template for boot-strapping a plugin project
+
+Template for boot-strapping a Recogito Studio plugin project.
